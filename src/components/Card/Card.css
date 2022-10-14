@@ -2,7 +2,7 @@
  
     height:41rem;
     width:25rem;
-    background-color: #F48B29;
+    background-color:yellowgreen;
     margin: 0 auto 0 auto;
     border-radius: 0.5rem;
     display: grid;
@@ -14,7 +14,7 @@
 .bars {
     height: 41rem;
     width: 5rem;
-    background-color: #53c1de;
+    background-color:aqua;
     position: relative;
     transform: rotate(-45deg);
     top:-40rem;

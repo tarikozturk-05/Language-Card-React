@@ -1,6 +1,12 @@
 body{
   background-color: aqua;
 }
+.logo{
+  height: 300px;
+  width: 100%;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
 .App {
   text-align: center;
 }
